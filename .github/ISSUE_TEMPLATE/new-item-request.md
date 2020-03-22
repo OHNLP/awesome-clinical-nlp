@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Category**
-If it should be under any 1st level sections (e.g. `White papers`, `Overview articles`, `Tools`, `Workshops`)
+If it should be under any 1st level section (e.g. `White papers`, `Overview articles`, `Tools`, `Workshops`)
 
 **Sub-category**
 Where this item should go
