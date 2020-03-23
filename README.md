@@ -26,6 +26,6 @@
 # Workshops 
 
 - [BioNLP](https://aclweb.org/aclwiki/SIGBIOMED)  
-- ClinicalNLP: [2019](https://clinical-nlp.github.io/2019/)
+- ClinicalNLP: [2019](https://clinical-nlp.github.io/2019/), [2020](https://clinical-nlp.github.io/2020/)
   - [Resources](https://clinical-nlp.github.io/2019/resources.html)
 - Health NLP [2018](https://ohnlp.github.io/HealthNLP2018/healthnlp2018), [2019](https://ohnlp.github.io/HealthNLP2019/healthnlp2019), [2020](https://ohnlp.github.io/HealthNLP2020/healthnlp2020)
