@@ -7,10 +7,11 @@
 - Workshops
 
 # Overview Articles
+- [SECNLP: A survey of embeddings in clinical natural language processing](https://www.sciencedirect.com/science/article/pii/S1532046419302436) Kalyan K et al, 2020
 - [Deep learning in clinical natural language processing: a methodical review](https://academic.oup.com/jamia/article-abstract/27/3/457/5651084), S Wu et al, 2019
+- [Natural Language Processing of Clinical Notes on Chronic Diseases: Systematic Review](https://www.sciencedirect.com/science/article/pii/S1532046418302016#!), Sheikhalishahi S et al, 2019
 - [Clinical information extraction applications: A literature review](https://www.sciencedirect.com/science/article/pii/S1532046417302563), Y Wang et al, 2018
 - [Using clinical Natural Language Processing for health outcomes research: Overview and actionable suggestions for future advances](https://www.sciencedirect.com/science/article/pii/S1532046418302016), Velupillai S et al, 2018
-- [Natural Language Processing of Clinical Notes on Chronic Diseases: Systematic Review](https://www.sciencedirect.com/science/article/pii/S1532046418302016#!), Sheikhalishahi S et al, 2019
 
 # Tools
 - NLP systems 
