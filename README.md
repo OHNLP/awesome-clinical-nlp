@@ -6,12 +6,19 @@
 - Tools
 - Workshops
 
+# White Papers
+- Linguamatics&reg;: [list](https://www.linguamatics.com/resources/linguamatics-downloads)
+- HLA-Global&reg;: [Deficiencies in Current Practices of Clinical Natural Language Processing](https://www.hla-global.com/2019/02/deficiencies-in-current-practices-of-clinical-natural-language-processing-cnlp-white-paper/)
+- Optum360&reg;: [Natural language processing: A catalyst
+driving revenue cycle transformation](https://journal.ahima.org/wp-content/uploads/2019/04/Optum360.whitepaper.fullpaper.May191232345467665.pdf)
+
 # Overview Articles
-- [SECNLP: A survey of embeddings in clinical natural language processing](https://www.sciencedirect.com/science/article/pii/S1532046419302436)  K Kalyan et al, 2020
-- [Deep learning in clinical natural language processing: a methodical review](https://academic.oup.com/jamia/article-abstract/27/3/457/5651084), S Wu et al, 2019
+- [SECNLP: A survey of embeddings in clinical natural language processing](https://www.sciencedirect.com/science/article/pii/S1532046419302436)  Kalyan K et al, 2020
+- [Deep learning in clinical natural language processing: a methodical review](https://academic.oup.com/jamia/article-abstract/27/3/457/5651084), Wu S et al, 2019
 - [Natural Language Processing of Clinical Notes on Chronic Diseases: Systematic Review](https://www.sciencedirect.com/science/article/pii/S1532046418302016#!), Sheikhalishahi S et al, 2019
-- [Clinical information extraction applications: A literature review](https://www.sciencedirect.com/science/article/pii/S1532046417302563), Y Wang et al, 2018
+- [Clinical information extraction applications: A literature review](https://www.sciencedirect.com/science/article/pii/S1532046417302563), Wang Y et al, 2018
 - [Using clinical Natural Language Processing for health outcomes research: Overview and actionable suggestions for future advances](https://www.sciencedirect.com/science/article/pii/S1532046418302016), Velupillai S et al, 2018
+- [Clinical Natural Language Processing in languages other than English: opportunities and challenges], Névéol A et al, 2018
 
 # Tools
 - NLP systems 
