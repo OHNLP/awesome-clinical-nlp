@@ -18,7 +18,7 @@ driving revenue cycle transformation](https://journal.ahima.org/wp-content/uploa
 - [Natural Language Processing of Clinical Notes on Chronic Diseases: Systematic Review](https://www.sciencedirect.com/science/article/pii/S1532046418302016#!), Sheikhalishahi S et al, 2019
 - [Clinical information extraction applications: A literature review](https://www.sciencedirect.com/science/article/pii/S1532046417302563), Wang Y et al, 2018
 - [Using clinical Natural Language Processing for health outcomes research: Overview and actionable suggestions for future advances](https://www.sciencedirect.com/science/article/pii/S1532046418302016), Velupillai S et al, 2018
-- [Clinical Natural Language Processing in languages other than English: opportunities and challenges], Névéol A et al, 2018
+- [Clinical Natural Language Processing in languages other than English: opportunities and challenges](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-018-0179-8), Névéol A et al, 2018
 
 # Tools
 - NLP systems 
