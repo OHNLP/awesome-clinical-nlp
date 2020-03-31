@@ -11,6 +11,7 @@
 - HLA-Global&reg;: [Deficiencies in Current Practices of Clinical Natural Language Processing](https://www.hla-global.com/2019/02/deficiencies-in-current-practices-of-clinical-natural-language-processing-cnlp-white-paper/)
 - Optum360&reg;: [Natural language processing: A catalyst
 driving revenue cycle transformation](https://journal.ahima.org/wp-content/uploads/2019/04/Optum360.whitepaper.fullpaper.May191232345467665.pdf)
+- Wolters Kluwer&reg;: [Clinical NLP Unlocks Hidden Value for Medicare Advantage Plans](https://info.healthlanguage.com/unlockvalue)
 
 # Overview Articles
 - [SECNLP: A survey of embeddings in clinical natural language processing](https://www.sciencedirect.com/science/article/pii/S1532046419302436)  Kalyan K et al, 2020
