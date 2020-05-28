@@ -3,6 +3,7 @@
 # Contents
 - White Papers
 - Overview Articles
+- COVID 19
 - Tools
 - Workshops
 
@@ -20,6 +21,10 @@ driving revenue cycle transformation](https://journal.ahima.org/wp-content/uploa
 - [Clinical information extraction applications: A literature review](https://www.sciencedirect.com/science/article/pii/S1532046417302563), Wang Y et al, 2018
 - [Using clinical Natural Language Processing for health outcomes research: Overview and actionable suggestions for future advances](https://www.sciencedirect.com/science/article/pii/S1532046418302016), Velupillai S et al, 2018
 - [Clinical Natural Language Processing in languages other than English: opportunities and challenges](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-018-0179-8), Névéol A et al, 2018
+
+# COVID 19
+- [NLP to support Coronavirus disease (COVID-19) research](http://covid19nlp.org/index.php)
+- [MedTagger COVID 19 demo](http://167.114.144.164/)
 
 # Tools
 - NLP systems 
