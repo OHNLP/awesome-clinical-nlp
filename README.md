@@ -42,9 +42,14 @@ driving revenue cycle transformation](https://journal.ahima.org/wp-content/uploa
   - [Anafora](https://github.com/weitechen/anafora)
   - [MEA](http://keighrim.github.io/mae-annotation/)
 
-# Workshops 
+# Workshops and Resources
 
 - [BioNLP](https://aclweb.org/aclwiki/SIGBIOMED)  
 - ClinicalNLP: [2019](https://clinical-nlp.github.io/2019/), [2020](https://clinical-nlp.github.io/2020/)
   - [Resources](https://clinical-nlp.github.io/2019/resources.html)
 - Health NLP [2018](https://ohnlp.github.io/HealthNLP2018/healthnlp2018), [2019](https://ohnlp.github.io/HealthNLP2019/healthnlp2019), [2020](https://ohnlp.github.io/HealthNLP2020/healthnlp2020)
+- [BioCreative/OHNLP 2018](https://sites.google.com/view/ohnlp2018/home)
+- [n2c2 NLP Research Data Sets](https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/)
+  - "Unstructured notes from the Research Patient Data Repository at Partners Healthcare."
+
+
