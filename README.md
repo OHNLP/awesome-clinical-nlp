@@ -23,8 +23,11 @@ driving revenue cycle transformation](https://journal.ahima.org/wp-content/uploa
 - [Clinical Natural Language Processing in languages other than English: opportunities and challenges](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-018-0179-8), Névéol A et al, 2018
 
 # COVID 19
-- [LitCovid - NLP to support Coronavirus disease (COVID-19) research](http://covid19nlp.org/index.php)
+- [covid19nlp.org](http://covid19nlp.org/index.php)
+  - NLP to support Coronavirus disease (COVID-19) research
 - [MedTagger COVID 19 demo](http://167.114.144.164/)
+- [LitCovid](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
+  - "LitCovid is a curated literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus." 
 
 # Tools
 - NLP systems 
