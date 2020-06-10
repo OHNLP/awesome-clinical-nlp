@@ -26,6 +26,7 @@ driving revenue cycle transformation](https://journal.ahima.org/wp-content/uploa
 - [covid19nlp.org](http://covid19nlp.org/index.php)
   - NLP to support Coronavirus disease (COVID-19) research
 - [MedTagger COVID 19 demo](http://167.114.144.164/)
+  - A demo site for COVID 19 symptom extraction from clinical texts using MedTagger
 - [LitCovid](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
   - "LitCovid is a curated literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus." 
 
