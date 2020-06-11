@@ -34,7 +34,7 @@ driving revenue cycle transformation](https://journal.ahima.org/wp-content/uploa
 - NLP systems 
   - [Apache cTAKES](https://ctakes.apache.org/)
   - [CLAMP](https://clamp.uth.edu/) 
-  - [MedTagger](https://github.com/medtagger/MedTagger)
+  - [MedTagger](https://github.com/ohnlp/MedTagger)
   - [MetaMap](https://metamap.nlm.nih.gov/)
   - [CD2H NLP Sandbox](https://github.com/data2health/nlp-sandbox)
 - Annotation
