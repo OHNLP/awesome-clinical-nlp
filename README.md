@@ -29,6 +29,8 @@ driving revenue cycle transformation](https://journal.ahima.org/wp-content/uploa
   - A demo site for COVID 19 symptom extraction from clinical texts using MedTagger
 - [LitCovid](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
   - "LitCovid is a curated literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus." 
+- [ACT-COVID-Ontology](ACT-COVID-Ontology)
+
 
 # Tools
 - NLP systems 
