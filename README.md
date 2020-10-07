@@ -15,6 +15,7 @@ driving revenue cycle transformation](https://journal.ahima.org/wp-content/uploa
 - Wolters Kluwer&reg;: [Clinical NLP Unlocks Hidden Value for Medicare Advantage Plans](https://info.healthlanguage.com/unlockvalue)
 
 # Overview Articles
+- [Clinical concept extraction: A methodology review](https://doi.org/10.1016/j.jbi.2020.103526) Fu S et al, 2020
 - [SECNLP: A survey of embeddings in clinical natural language processing](https://www.sciencedirect.com/science/article/pii/S1532046419302436)  Kalyan K et al, 2020
 - [Deep learning in clinical natural language processing: a methodical review](https://academic.oup.com/jamia/article-abstract/27/3/457/5651084), Wu S et al, 2019
 - [Natural Language Processing of Clinical Notes on Chronic Diseases: Systematic Review](https://www.sciencedirect.com/science/article/pii/S1532046418302016#!), Sheikhalishahi S et al, 2019
