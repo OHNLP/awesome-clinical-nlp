@@ -40,7 +40,11 @@ driving revenue cycle transformation](https://journal.ahima.org/wp-content/uploa
   - [MedTagger](https://github.com/ohnlp/MedTagger)
   - [MetaMap](https://metamap.nlm.nih.gov/)
   - [CD2H NLP Sandbox](https://github.com/data2health/nlp-sandbox)
-- Annotation
+- EHR Systems for Texts
+  - [EMERSE](http://project-emerse.org/index.html)
+  - [SemEHR](https://github.com/CogStack/CogStack-SemEHR)
+  - [EliIE](https://github.com/Tian312/ELIIE)
+- Manual Annotation Tools
   - [Brat](https://brat.nlplab.org/)
   - [Anafora](https://github.com/weitechen/anafora)
   - [MEA](http://keighrim.github.io/mae-annotation/)
