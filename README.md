@@ -1,18 +1,12 @@
 # awesome-clinical-nlp
 
 # Contents
-- White Papers
 - Overview Articles
 - COVID 19
 - Tools
 - Workshops
 
-# White Papers
-- Linguamatics&reg;: [list](https://www.linguamatics.com/resources/linguamatics-downloads)
-- HLA-Global&reg;: [Deficiencies in Current Practices of Clinical Natural Language Processing](https://www.hla-global.com/2019/02/deficiencies-in-current-practices-of-clinical-natural-language-processing-cnlp-white-paper/)
-- Optum360&reg;: [Natural language processing: A catalyst
-driving revenue cycle transformation](https://journal.ahima.org/wp-content/uploads/2019/04/Optum360.whitepaper.fullpaper.May191232345467665.pdf)
-- Wolters Kluwer&reg;: [Clinical NLP Unlocks Hidden Value for Medicare Advantage Plans](https://info.healthlanguage.com/unlockvalue)
+If you are interested particular in Biomedical Information Extraction, there is a good resource at https://github.com/caufieldjh/awesome-bioie.
 
 # Overview Articles
 - [Clinical concept extraction: A methodology review](https://doi.org/10.1016/j.jbi.2020.103526) Fu S et al, 2020
